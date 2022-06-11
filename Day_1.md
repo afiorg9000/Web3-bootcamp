@@ -63,3 +63,4 @@ Challenge apps built today
 - Closed Source: 
 - Downtime: If the AWS is down, so is the appp
 - Low security: Data can be hacked
+
