@@ -1,4 +1,4 @@
-#Web3 Development
+# Web3 Development
 
 ## Traditional Finances (TradFi)
 	Is characterized, control, adn exceclusion of ratail investros from many
