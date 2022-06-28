@@ -21,7 +21,7 @@ don August 25-28.
 2. [Instructor: Steven Rivera](https://twitter.com/stevenlriv)
 3. [Instructor: Cristian Melendez](https://www.linkedin.com/in/cristian-melendez-64226b110/?originalSubdomain=pr)
 
-[Site](https://web3pr.camp)
+Official Site[Click here!](https://web3pr.camp)
 
 ![BootCamp](https://assets.weforum.org/article/image/0R7BdnZl_gyeWOKsudAVmI7gNR673V4BIxQM6gwT-FY.png)
 
